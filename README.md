@@ -81,6 +81,7 @@ Contributing to Celluloid::IO
 -----------------------------
 
 * Fork this repository on github
+* Check out submodules with `git submodule init` and `git submodule update`
 * Make your changes and send me a pull request
 * If I like them I'll merge them
 * If I've accepted a patch, feel free to ask for a commit bit!
